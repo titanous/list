@@ -6719,7 +6719,7 @@ org.zw
 
 // newGTLDs
 
-// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2024-07-12T15:14:39Z
+// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2025-02-06T15:00:58Z
 // This list is auto-generated, don't edit it manually.
 // aaa : American Automobile Association, Inc.
 // https://www.iana.org/domains/root/db/aaa.html
@@ -6949,7 +6949,7 @@ art
 // https://www.iana.org/domains/root/db/arte.html
 arte
 
-// asda : Wal-Mart Stores, Inc.
+// asda : Asda Stores Limited
 // https://www.iana.org/domains/root/db/asda.html
 asda
 
@@ -7665,10 +7665,6 @@ cymru
 // https://www.iana.org/domains/root/db/cyou.html
 cyou
 
-// dabur : Dabur India Limited
-// https://www.iana.org/domains/root/db/dabur.html
-dabur
-
 // dad : Charleston Road Registry Inc.
 // https://www.iana.org/domains/root/db/dad.html
 dad
@@ -8121,7 +8117,7 @@ forex
 // https://www.iana.org/domains/root/db/forsale.html
 forsale
 
-// forum : Fegistry, LLC
+// forum : Waterford Limited
 // https://www.iana.org/domains/root/db/forum.html
 forum
 
@@ -8401,11 +8397,11 @@ haus
 // https://www.iana.org/domains/root/db/hbo.html
 hbo
 
-// hdfc : HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED
+// hdfc : HDFC BANK LIMITED
 // https://www.iana.org/domains/root/db/hdfc.html
 hdfc
 
-// hdfcbank : HDFC Bank Limited
+// hdfcbank : HDFC BANK LIMITED
 // https://www.iana.org/domains/root/db/hdfcbank.html
 hdfcbank
 
@@ -9033,7 +9029,7 @@ maison
 // https://www.iana.org/domains/root/db/makeup.html
 makeup
 
-// man : MAN SE
+// man : MAN Truck & Bus SE
 // https://www.iana.org/domains/root/db/man.html
 man
 
@@ -9112,6 +9108,10 @@ men
 // menu : Dot Menu Registry, LLC
 // https://www.iana.org/domains/root/db/menu.html
 menu
+
+// merck : Merck Registry Holdings, Inc.
+// https://www.iana.org/domains/root/db/merck.html
+merck
 
 // merckmsd : MSD Registry Holdings, Inc.
 // https://www.iana.org/domains/root/db/merckmsd.html
@@ -9325,7 +9325,7 @@ nissay
 // https://www.iana.org/domains/root/db/nokia.html
 nokia
 
-// norton : NortonLifeLock Inc.
+// norton : Gen Digital Inc.
 // https://www.iana.org/domains/root/db/norton.html
 norton
 
@@ -9333,7 +9333,7 @@ norton
 // https://www.iana.org/domains/root/db/now.html
 now
 
-// nowruz : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+// nowruz
 // https://www.iana.org/domains/root/db/nowruz.html
 nowruz
 
@@ -9457,7 +9457,7 @@ panasonic
 // https://www.iana.org/domains/root/db/paris.html
 paris
 
-// pars : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+// pars
 // https://www.iana.org/domains/root/db/pars.html
 pars
 
@@ -9693,7 +9693,7 @@ realestate
 // https://www.iana.org/domains/root/db/realtor.html
 realtor
 
-// realty : Internet Naming Company LLC
+// realty : Waterford Limited
 // https://www.iana.org/domains/root/db/realty.html
 realty
 
@@ -10013,7 +10013,7 @@ sharp
 // https://www.iana.org/domains/root/db/shell.html
 shell
 
-// shia : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+// shia
 // https://www.iana.org/domains/root/db/shia.html
 shia
 
@@ -10065,7 +10065,7 @@ ski
 // https://www.iana.org/domains/root/db/skin.html
 skin
 
-// sky : Sky International AG
+// sky : Sky UK Limited
 // https://www.iana.org/domains/root/db/sky.html
 sky
 
@@ -10289,7 +10289,7 @@ tax
 // https://www.iana.org/domains/root/db/taxi.html
 taxi
 
-// tci : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+// tci
 // https://www.iana.org/domains/root/db/tci.html
 tci
 
@@ -10773,7 +10773,7 @@ xin
 // https://www.iana.org/domains/root/db/xn--3bst00m.html
 集团
 
-// xn--3ds443g : TLD REGISTRY LIMITED OY
+// xn--3ds443g : Beijing TLD Registry Technology Limited
 // https://www.iana.org/domains/root/db/xn--3ds443g.html
 在线
 
@@ -10997,7 +10997,7 @@ xin
 // https://www.iana.org/domains/root/db/xn--mgbi4ecexp.html
 كاثوليك
 
-// xn--mgbt3dhd : Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+// xn--mgbt3dhd
 // https://www.iana.org/domains/root/db/xn--mgbt3dhd.html
 همراه
 
@@ -11129,7 +11129,7 @@ yahoo
 // https://www.iana.org/domains/root/db/yamaxun.html
 yamaxun
 
-// yandex : Yandex Europe B.V.
+// yandex : ADC Tech Netherlands B.V.
 // https://www.iana.org/domains/root/db/yandex.html
 yandex
 
